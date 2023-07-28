@@ -1,72 +1,21 @@
-<h1 align="center"><b>👋 Hello World! I'm Akshit 👋</b></h1>
+[![MasterHead](https://i.pinimg.com/originals/d7/99/c8/d799c80e15d86c87105c5c0a36f65c3d.gif)](https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif)
 
+<h1 align="center">Hi 👋, I'm Akshit</h1>
+<h3 align="center">I'm a dynamic and visionary software engineer fresher, and my passion lies in crafting elegant solutions to complex problems! With a knack for diving into the heart of technology, I thrive on creating mesmerizing user experiences and building powerful software that leaves a lasting impact. As an ardent explorer of the tech cosmos, I'm constantly pushing the boundaries of what's possible!</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akscpp&label=Profile%20views&color=0e75b6&style=flat" alt="akscpp" /> </p>
 
-<h2 align="center"><b>Welcome to My Universe of Innovation 🚀</b></h2>
+- 📫 How to reach me **akshit28.aayush@gmail.com**
 
-<h3 align="center"><b>📝 About Me</b></h3>
-
-<p align="center">
-  I'm a dynamic and visionary software engineer fresher, and my passion lies in crafting elegant solutions to complex problems!
-  With a knack for diving into the heart of technology, I thrive on creating mesmerizing user experiences and building powerful software that leaves a lasting impact.
-  As an ardent explorer of the tech cosmos, I'm constantly pushing the boundaries of what's possible!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akshit-raj-458933182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshit-raj-458933182/" height="30" width="40" /></a>
+<a href="https://instagram.com/_aks.cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aks.cpp" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"><b>🌟 Skills & Superpowers</b></h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <b>Technical Arsenal</b>: C++, Python, Flutter Development, API Development, Flask, SQL, Machine Learning, Internet of Things, Data Structures and Algorithms, Software Engineering, SRS Document, VMware (Ubuntu), Postman, Problem Solving
-  <br><br>
-  <b>Languages Spoken</b>: C++, Python, and the language of innovation!
-  <br><br>
-  <b>Frameworks & Magic Spells</b>: Flutter, Flask, and anything that empowers dreams!
-  <br><br>
-  <b>Supercharged Soft Skills</b>: Emotional Intelligence (I can even talk to bots!), Collaboration (let's merge our ideas!), Communication (captivating stories!), Leadership (guiding star of the team!)
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akscpp&show_icons=true&locale=en&layout=compact" alt="akscpp" /></p>
 
-<h3 align="center"><b>🌈 Projects - Embodiments of My Imagination</b></h3>
-
-<ol align="center">
-  <li>
-    <b>🎵 Songs API</b> - Empowering the world to discover melodies! Fetches details of the latest songs released and brings rhythm to life.
-  </li>
-  <li>
-    <b>💹 Kryyptonium</b> - Unleash the power of cryptocurrencies! An innovative app to fetch quotes and real-time values of BTC, ETH, LTC in various currencies. Crafted with the enchanting Flutter.
-  </li>
-  <li>
-    <b>🌡️ Temperature Monitoring System</b> - Let's beat the heat! Keeps you informed with an alert message when the temperature rises beyond expectations.
-  </li>
-  <li>
-    <b>🌡️ Temperature Predicting System</b> - Predicting the future, one degree at a time! Employs LM35 sensor data to forecast temperatures with magic algorithms.
-  </li>
-  <li>
-    <b>📄 Research Paper (Unpublished)</b> - Unraveling the mysteries of stress levels in students using the mystical powers of Machine Learning algorithms.
-  </li>
-</ol>
-
-<h3 align="center"><b>📫 Connect & Join the Adventure</b></h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshit-raj-458933182/" target="_blank">
-    <img src="[linkedin-icon-url](https://icons-for-free.com/iconfiles/png/512/linkedin+logo+logo+website+icon-1320190502911715717.p)" alt="LinkedIn Profile" width="50" height="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/akscpp" target="_blank">
-    <img src="github-icon-url" alt="GitHub Profile" width="50" height="50">
-  </a>
-  <br><br>
-  <b>Email</b>: akshit28.aayush@gmail.com
-</p>
-
-<p align="center">
-  <b>Reach out to me, and let's embark on an extraordinary journey of innovation, collaboration, and transformation! ✨</b>
-</p>
-
-
-
-
-
-
-<!---
-akscpp/akscpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akscpp&" alt="akscpp" /></p>

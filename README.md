@@ -5,6 +5,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akscpp&label=Profile%20views&color=0e75b6&style=flat" alt="akscpp" /> </p>
 
+- 🌱 I’m currently pursuing **Computer Science and Engineering at BIT Mesra , Ranchi**
+
+- 👯 I’m looking to collaborate on **Flutter projects and API Dev projects**
+
 - 💬 Ask me about **Flutter Development , API Development , Internet of Things**
 
 - 📫 How to reach me **akshit28.aayush@gmail.com**

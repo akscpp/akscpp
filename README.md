@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter projects and API Dev projects**
 
-- 💬 Ask me about **Flutter Development , API Development , Internet of Things**
+- 💬 Ask me about **Flutter Development , API Development , Internet of Things , DSA**
 
 - 📫 How to reach me **akshit28.aayush@gmail.com**
 

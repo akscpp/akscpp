@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/d7/99/c8/d799c80e15d86c87105c5c0a36f65c3d.gif)](https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif)
 
-<h1 align="center">Hi 👋, I'm Akshit</h1>
+<h1 align="center">Hi 👋, I'm Akshit </h1>
 <h3 align="center">I'm a dynamic and visionary software engineer fresher, and my passion lies in crafting elegant solutions to complex problems! With a knack for diving into the heart of technology, I thrive on creating mesmerizing user experiences and building powerful software that leaves a lasting impact. As an ardent explorer of the tech cosmos, I'm constantly pushing the boundaries of what's possible!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akscpp&label=Profile%20views&color=0e75b6&style=flat" alt="akscpp" /> </p>

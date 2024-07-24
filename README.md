@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Flutter Development , Backend Development , Internet of Things ,Machine Learning , DSA**
 
+- 📄 Know about my experiences ->  [RESUME](https://drive.google.com/file/d/1X1LEFsivqVcrtM-4uN1OWTEHP86Y_XHi/view)
+
 - 📫 How to reach me **akshit28.aayush@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

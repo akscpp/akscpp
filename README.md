@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing **Computer Science and Engineering at BIT Mesra , Ranchi**
 
-- 👯 I’m looking to collaborate on **Flutter projects and API Dev projects**
+- 👯 I’m looking to collaborate on **Flutter projects and Backend Dev projects**
 
 - 💬 Ask me about **Flutter Development , API Development , Internet of Things , DSA**
 

@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akscpp&show_icons=true&locale=en&layout=compact" alt="akscpp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akscpp&" alt="akscpp" /></p>
+
